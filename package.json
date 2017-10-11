@@ -1,6 +1,6 @@
 {
   "name": "calc-average-hex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calculate average hex from 2 input hex",
   "main": "calcAverageHex.js",
   "directories": {
